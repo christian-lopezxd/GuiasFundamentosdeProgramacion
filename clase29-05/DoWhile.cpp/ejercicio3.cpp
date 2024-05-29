@@ -53,7 +53,7 @@ int main()
             if (inicioSesion == true)
             {
                 cout << "Bienvenido ";
-                continue;
+                return 0;
             }
             break;
         case 2:
